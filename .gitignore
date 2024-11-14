@@ -1,0 +1,25 @@
+# Frontend
+webrtc-chat-frontend/node_modules/
+webrtc-chat-frontend/build/
+webrtc-chat-frontend/.env
+webrtc-chat-frontend/.DS_Store
+webrtc-chat-frontend/npm-debug.log*
+webrtc-chat-frontend/yarn-debug.log*
+webrtc-chat-frontend/yarn-error.log*
+
+# Backend
+webrtc-server/target/
+webrtc-server/build/
+webrtc-server/.env
+webrtc-server/.mvn/
+webrtc-server/mvnw
+webrtc-server/mvnw.cmd
+webrtc-server/*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
